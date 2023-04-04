@@ -1,0 +1,37 @@
+﻿Electron transport chain
+* Inner mitochondrial membrane
+* Extract energy from electron carrier
+* Transfer electrons from NADH and FADH2 to O2
+* Consists of 4 protein complex
+   * Complex I: NADH dehydrogenase
+   * Complex II: Succinate dehydrogenase (single peripheral)
+   * Complex III: Cytochrome Complex
+   * Complex IV: Cytochrome Oxidase
+——————————————————————————————————————————
+Electron transfer controlled by 2 electron shuttle
+* Ubiquinone(UQ)
+* Cytochrome(cyt c)
+——————————————————————————————————————————
+What drives the ETC
+* I, III, IV are protein 
+   * Increase negativity from I→III→IV
+* Complex has cofactors that alternate between reduced and oxidized states
+   * As complexes pull electrons from upstream complexes and donate electrons to more electronegative downstream.
+   * Not proteins themselves pull electrons but their non-protein groups that bonds to protein.
+* ETC is final destination of oxygen
+* Oxygen goes into the mitochondria with the single task of pulling the electrons away from complex IV
+* The strongest electronegativity drives entire ETC
+——————————————————————————————————————————
+When oxygen interacts with complex IV
+* It removes a pair of electrons, it will also reacts with two protons(2H+) from matrix
+   * Form a single H2O
+* For O2 
+   * It need 4 electrons and 4 H+ to form 2 H2O
+* The chain reaction is almost instantaneous
+——————————————————————————————————————————
+Free energy
+* Upstream is greatest amount
+* Downstream is lowest amount
+* Electrons in NADH has most free energy
+* Oxygen has the strongest electronegative, it has a strong hold on its bond, therefore the electrons have less free energy.
+* Electrons release free energy as they are pulled by stronger and stronger oxidizing complexes
